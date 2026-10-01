@@ -1,0 +1,36 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20261001-205225-ovxl",
+      "title": "Illusionsgodx",
+      "commanders": [
+        "Illusionsgodx"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-10-01T12:52:25.000Z",
+      "dateEnd": "2026-10-01T13:24:31.690Z",
+      "dateLabel": "01/10/2026, 20:52:25 - 01/10/2026, 21:24:31",
+      "url": "https://negreca21-lang.github.io/NevzsWvW/?report=20261001-205225-ovxl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 55,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 17
+      }
+    }
+  ]
+}
