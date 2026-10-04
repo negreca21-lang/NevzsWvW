@@ -1,1 +1,36 @@
-[]
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20261004-214004-2axs",
+      "title": "Follow This Tag",
+      "commanders": [
+        "Follow This Tag"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-10-04T13:40:04.000Z",
+      "dateEnd": "2026-10-04T14:48:37.971Z",
+      "dateLabel": "04/10/2026, 21:40:04 - 04/10/2026, 22:48:37",
+      "url": "https://negreca21-lang.github.io/NevzsWvW/?report=20261004-214004-2axs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 45
+      }
+    }
+  ]
+}
