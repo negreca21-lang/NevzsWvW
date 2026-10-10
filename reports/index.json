@@ -3,7 +3,41 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.2"
+  },
   "entries": [
+    {
+      "id": "20261010-212251-bobd",
+      "title": "Follow This Tag, Trembling",
+      "commanders": [
+        "Follow This Tag",
+        "Trembling"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-10-10T13:22:51.000Z",
+      "dateEnd": "2026-10-10T14:20:34.068Z",
+      "dateLabel": "10/10/2026, 21:22:51 - 10/10/2026, 22:20:34",
+      "url": "https://negreca21-lang.github.io/NevzsWvW/?report=20261010-212251-bobd",
+      "publishedBy": "negreca21-lang",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 62
+      }
+    },
     {
       "id": "20261004-214004-2axs",
       "title": "Follow This Tag",
