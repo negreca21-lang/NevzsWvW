@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261017-211214-orzh",
+      "title": "Follow This Tag",
+      "commanders": [
+        "Follow This Tag"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-10-17T13:12:14.000Z",
+      "dateEnd": "2026-10-17T15:24:21.961Z",
+      "dateLabel": "17/10/2026, 21:12:14 - 17/10/2026, 23:24:21",
+      "url": "https://negreca21-lang.github.io/NevzsWvW/?report=20261017-211214-orzh",
+      "publishedBy": "negreca21-lang",
+      "summary": {
+        "borderlandsPct": 0.058823529411764705,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261015-211841-zqfb",
       "title": "Illusionsgodx",
       "commanders": [
