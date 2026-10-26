@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261026-085407-q9mr",
+      "title": "Incredible Bloodiee",
+      "commanders": [
+        "Incredible Bloodiee"
+      ],
+      "guild": {
+        "id": "BA676D9E-5670-4693-874D-6CD8AB48F0ED",
+        "name": "Violent Resolution",
+        "tag": "VR"
+      },
+      "dateStart": "2026-10-26T00:54:07.000Z",
+      "dateEnd": "2026-10-26T01:52:32.329Z",
+      "dateLabel": "26/10/2026, 08:54:07 - 26/10/2026, 09:52:32",
+      "url": "https://negreca21-lang.github.io/NevzsWvW/?report=20261026-085407-q9mr",
+      "publishedBy": "negreca21-lang",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 74
+      }
+    },
+    {
       "id": "20261026-101048-0spd",
       "title": "Unknown Commander",
       "commanders": [],
