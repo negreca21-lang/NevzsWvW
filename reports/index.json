@@ -9,6 +9,23 @@
   },
   "entries": [
     {
+      "id": "20261026-101048-0spd",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": null,
+      "dateStart": "2026-10-26T02:10:48.495Z",
+      "dateEnd": "2026-10-26T02:10:48.495Z",
+      "dateLabel": "26/10/2026, 10:10:48 - 26/10/2026, 10:10:48",
+      "url": "https://negreca21-lang.github.io/NevzsWvW/?report=20261026-101048-0spd",
+      "publishedBy": "negreca21-lang",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20261023-210344-hqgq",
       "title": "Follow This Tag",
       "commanders": [
