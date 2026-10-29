@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261029-210506-nb6c",
+      "title": "Illusionsgodx",
+      "commanders": [
+        "Illusionsgodx"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-10-29T13:05:06.000Z",
+      "dateEnd": "2026-10-29T14:04:40.993Z",
+      "dateLabel": "29/10/2026, 21:05:06 - 29/10/2026, 22:04:40",
+      "url": "https://negreca21-lang.github.io/NevzsWvW/?report=20261029-210506-nb6c",
+      "publishedBy": "negreca21-lang",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 56
+      }
+    },
     {
       "id": "20261026-085407-q9mr",
       "title": "Incredible Bloodiee",
