@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.24.1"
   },
   "entries": [
+    {
+      "id": "20261111-213057-0uu0",
+      "title": "Illusionsgodx",
+      "commanders": [
+        "Illusionsgodx"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-11T13:30:57.000Z",
+      "dateEnd": "2026-11-11T14:34:18.630Z",
+      "dateLabel": "11/11/2026, 21:30:57 - 11/11/2026, 22:34:18",
+      "url": "https://negreca21-lang.github.io/NevzsWvW/?report=20261111-213057-0uu0",
+      "publishedBy": "negreca21-lang",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 10
+      }
+    },
     {
       "id": "20261029-210506-nb6c",
       "title": "Illusionsgodx",
